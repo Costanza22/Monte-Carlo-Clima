@@ -1,5 +1,5 @@
 #simular as temperaturas mínimas e máximas, umidade às 9h e 15h, e a pressão às 9h e 15h
-#Link para dados: https://www.kaggle.com/code/kunalkhurana007/rainfall-prediction-australia
+#Link para dados: https://www.kaggle.com/datasets/arunavakrchakraborty/australia-weather-data
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
